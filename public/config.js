@@ -1,1 +1,3 @@
-let _CONFIG = {};
+let _CONFIG = {
+    "wispUrl": "wss://wisp.mercurywork.shop/"
+};
