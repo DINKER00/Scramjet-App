@@ -1,4 +1,4 @@
 let _CONFIG = {
-    "wispUrl": "wss://wisp.mercurywork.shop/"
+    "wispUrl": "wss://my-wisp-proxy.melhikn.workers.dev/"
 };
 å
